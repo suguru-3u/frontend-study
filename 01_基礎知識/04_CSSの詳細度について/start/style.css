@@ -1,0 +1,21 @@
+.parent{
+    color: blue;
+    font-weight: 600;
+}
+
+span{
+    color: blueviolet;
+}
+
+.cls{
+    color: coral;
+}
+
+#first{
+    color: crimson;
+}
+
+.parent span{
+    font-weight: 900;
+    color: chartreuse;
+}
